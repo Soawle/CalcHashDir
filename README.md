@@ -16,4 +16,4 @@ Simple Tool C# to calculate Hashes into a Directory and Comparate with another h
   Compare Hash with file\s:
     
     CalcHashDir.exe C:\System\vccorlib120.dll BDDF9F6B23FE4B85B9EB63DF613FB777
-Report Save in the directory "Report" in 2 type of files (CSV, JSON)
+Report Save in the directory "Reportes" in 2 type of files (CSV, JSON)
