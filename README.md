@@ -2,7 +2,7 @@
 Simple Tool C# to calculate Hashes into a Directory and Comparate with another hash.
 
 ## Usage
-  CalcHashDir.exe {Directorio} {Hash}
+  \nCalcHashDir.exe {Directorio} {Hash}
   CalcHashDir.exe {Directorio}
   CalcHashDir.exe {Path Archivo} {Hash}
   CalcHashDir.exe {Path Archivo}
